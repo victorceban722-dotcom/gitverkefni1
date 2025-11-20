@@ -37,4 +37,4 @@
     * Staging Area	Svæði þar sem þú velur hvaða skrár fara í næsta commit (git add).
 
 ** hey **
-![Alt Text](oip.webp)
+![Alt Text](https://cdn.pixabay.com/photo/2017/04/06/10/39/young-dog-2207924_640.jpg)
