@@ -35,3 +35,6 @@
 
     * Working Directory	Möppan á tölvunni þinni þar sem þú ert að vinna með skrárnar núna.
     * Staging Area	Svæði þar sem þú velur hvaða skrár fara í næsta commit (git add).
+
+** hey **
+![Alt Text](oip.webp)
